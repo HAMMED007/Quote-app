@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807701948564",
+    "project_id": "aqoutesapp",
+    "storage_bucket": "aqoutesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807701948564:android:1aa572bc1b20170190ac81",
+        "android_client_info": {
+          "package_name": "com.example.qoutes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807701948564-llpsuk52uhecf2c4nfnt1ucj4rqg474h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknqww-rE1jypScdh7NKnMXuE-7E9M_Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807701948564-llpsuk52uhecf2c4nfnt1ucj4rqg474h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
